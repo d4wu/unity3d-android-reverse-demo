@@ -1,7 +1,7 @@
 # unity3d-android-reverse-demo
 
-该项目是[《简单Unity3D类安卓游戏逆向思路》](https://paper.seebug.org/828/)一文中使用的 demo。
-Unity3D 版本： 
+该项目是[《简单Unity3D类安卓游戏逆向思路》](https://paper.seebug.org/829/)一文中使用的 demo。   
+Unity3D 版本：2018.3.5    
 
 ## 目录结构
 ```
